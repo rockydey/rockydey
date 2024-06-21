@@ -3,7 +3,7 @@
 <h3 align="center">Deeply passionate about achieving goals</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/kHrX62p/coder.gif"/>
 
-- 🌱 I’m currently learning **Redux, Next.js, Typescript, Python, SQL**
+- 🌱 I’m currently learning **Redux, Next.js**
 
 - 👨‍💻 All of my projects are available at [https://rocky-dey.web.app/](https://rocky-dey.web.app/)
 
