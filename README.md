@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/mqJ9bbQ/re-welcome.gif)
+![MasterHead](https://drive.google.com/file/d/1hAo1-_omH0nzI6rptbKpk3r3GQpVVYQm/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Rocky Dey</h1>
 <h3 align="center">A passionate full-stack developer & problem solver</h3>
 
