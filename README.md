@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Rocky Dey</h1>
 <h3 align="center">A passionate full-stack developer & problem solver</h3>
 
-<p align="center">
-  <img align="center" width="350" src="https://i.ibb.co/kHrX62p/coder.gif" alt="Coding"/>
-</p>
 
 ### 🌱 Currently Learning:
 - **React Native** 
