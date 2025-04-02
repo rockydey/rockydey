@@ -3,19 +3,6 @@
 <h1 align="center">Hi 👋, I'm Rocky Dey</h1>
 <h3 align="center">A passionate full-stack developer & problem solver</h3>
 
-
-### 🌱 Currently Learning:
-- **React Native** 
-- Exploring **MERN Stack** and **DevOps** Concepts
-
-### 👨‍💻 Check out my portfolio & projects:
-- [My Portfolio](https://rocky-dey.web.app/)
-
-### 📫 How to reach me:
-- Email: [rockydey077@gmail.com](mailto:rockydey077@gmail.com)
-- [LinkedIn](https://linkedin.com/in/deyrocky)
-- [Twitter](https://twitter.com/rocky_hemonto)
-
 ### 📄 Resume:
 - [My Resume](https://drive.google.com/file/d/1DOqynzOwaejY6r1DlXmSu1DpK_v8Ty32/view?usp=sharing)
 
@@ -52,29 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rockydey&show_icons=true&locale=en&layout=compact" alt="rockydey" width="400" />
 </p>
 
----
 
-### 👥 Connect with me:
-<p align="center">
-  <a href="https://twitter.com/rocky_hemonto" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rocky_hemonto" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/deyrocky" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deyrocky" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/rocky.dey.946179" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rocky.dey.946179" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/rocky_hemonto" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rocky_hemonto" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/dey_rocky" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dey_rocky" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/rocky_hemonto" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rocky_hemonto" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
