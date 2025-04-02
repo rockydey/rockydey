@@ -1,10 +1,12 @@
 ![MasterHead](https://i.ibb.co.com/PGfbzytC/Github-Banner.gif)
 
-<h1 align="center">Hi 👋, I'm Rocky Dey</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=268F77&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Hi+👋,+I'm+Rocky+Dey" alt="Typing SVG" />
+</h1>
 
 ### 🚀 Tech Stack & Tools:
 <p align="center">
-  <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>&nbsp;
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>&nbsp;
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>&nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>&nbsp;
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>&nbsp;
