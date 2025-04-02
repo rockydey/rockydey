@@ -29,9 +29,13 @@
 
 
 ### 🌍 Top Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rockydey&show_icons=true&locale=en&layout=compact" alt="rockydey" width="400" />
-</p>
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br />
+  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
+  <br />
+  <br />
+</div>
 
 
 
