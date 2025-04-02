@@ -24,10 +24,9 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rockydey&show_icons=true&locale=en" alt="rockydey" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rockydey&" alt="rockydey" width="400" />
-</p>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rockydey&show_icons=true&theme=gotham" alt="rockydey" />
+
+
 
 ### 🌍 Top Languages:
 <p align="center">
