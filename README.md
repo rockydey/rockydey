@@ -22,7 +22,6 @@
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rockydey&show_icons=true&theme=gotham" alt="rockydey" />
 
 
-
 ### 🌍 Top Languages:
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockydey&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
@@ -32,16 +31,12 @@
   <br />
 </div>
 
-
-
 ---
-
-### 📌 Follow My Journey:
-- Keep an eye on my **GitHub** repositories to see all the amazing projects I'm building.
 
 &nbsp;<div align="center">
   <img src="https://badges.pufler.dev/visits/rockydey/rockydey?color=black&logo=github" />
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/deyrocky/)
+  [![Resume](https://img.shields.io/badge/Resume-Download-orange?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1MNLxfbyeVU0j5vGlflGWpYJx2cSTQ5RK/view?usp=sharing)
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:rockydey077@gmail.com)
   <img src="https://komarev.com/ghpvc/?username=rockydey&style=plastic&label=Views"><img>
 </div>
