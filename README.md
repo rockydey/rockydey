@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co.com/4RkbBYMJ/Readme.gif)
+![MasterHead](https://i.ibb.co.com/PGfbzytC/Github-Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Rocky Dey</h1>
 <h3 align="center">A passionate full-stack developer & problem solver</h3>
