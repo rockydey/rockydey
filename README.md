@@ -40,7 +40,8 @@
 - Keep an eye on my **GitHub** repositories to see all the amazing projects I'm building.
 
 &nbsp;<div align="center">
+  <img src="https://badges.pufler.dev/visits/rockydey/rockydey?color=black&logo=github" />
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/deyrocky/)
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:rockydey077@gmail.com)
-  [![Visits](https://komarev.com/ghpvc/?username=rockydey&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/rockydey)
+  <img src="https://komarev.com/ghpvc/?username=rockydey&style=plastic&label=Views"><img>
 </div>
