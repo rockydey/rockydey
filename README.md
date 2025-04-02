@@ -1,12 +1,6 @@
 ![MasterHead](https://i.ibb.co.com/PGfbzytC/Github-Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Rocky Dey</h1>
-<h3 align="center">A passionate full-stack developer & problem solver</h3>
-
-### 📄 Resume:
-- [My Resume](https://drive.google.com/file/d/1DOqynzOwaejY6r1DlXmSu1DpK_v8Ty32/view?usp=sharing)
-
----
 
 ### 🚀 Tech Stack & Tools:
 <p align="center">
