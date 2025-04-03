@@ -23,7 +23,6 @@
 ### 📊 GitHub Stats:
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=rockydey&show_icons=true&theme=gotham" alt="rockydey" />
-   &nbsp;&nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=rockydey&show_icons=true&theme=gotham" alt="rockydey" />
   <br />  <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rockydey&show_icons=true&theme=gotham" alt="rockydey" />
