@@ -23,18 +23,12 @@
 ### 📊 GitHub Stats:
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=rockydey&show_icons=true&theme=gotham" alt="rockydey" />
-  <img src="https://streak-stats.demolab.com?user=rockydey&show_icons=true&theme=gotham" alt="rockydey" />
-  <br />  <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rockydey&show_icons=true&theme=gotham" alt="rockydey" />
-</div>
-
-### 🌍 Top Languages:
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockydey&layout=compact&hide_title=1&card_width=300&&show_icons=true&theme=gotham" alt="Top language used in my repos" />
-  <br />
-  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
-  <br />
-  <br />
+  <br />  <br />
+   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockydey&layout=compact&show_icons=true&theme=gotham" alt="Top language used in my repos" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://streak-stats.demolab.com?user=rockydey&show_icons=true&theme=gotham" alt="rockydey" />
 </div>
 
 ---
