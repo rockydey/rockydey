@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co.com/PGfbzytC/Github-Banner.gif](https://i.ibb.co/V0xyjFz9/Github-Banner.gif)
+![MasterHead](https://i.ibb.co/V0xyjFz/Github-Banner.gif)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=268F77&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Hi+👋,+I'm+Rocky+Dey" alt="Typing SVG" />
